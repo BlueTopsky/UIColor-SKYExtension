@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   					UIColor的分类，可通过十六进制和RGB生成颜色
                    DESC
 
-  s.homepage     = "https://github.com/BlueTopsky/UIColor+SKYExtension"
+  s.homepage     = "https://github.com/BlueTopsky/UIColor-SKYExtension"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/BlueTopsky/UIColor+SKYExtension.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/BlueTopsky/UIColor-SKYExtension.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
