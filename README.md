@@ -1,6 +1,8 @@
 # UIColor-SKYExtension
 通过十六进制和RGB生成颜色UIColor
 
+安装：pod 'UIColor+SKYExtension'
+
 ```
 /**
  从十六进制字符串获取颜色
